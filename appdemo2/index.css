@@ -1,0 +1,21 @@
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+a:hover {
+  color: rgb(1, 83, 104);
+}
+
+/* selected link */
+a:active {
+  color: rgba(6, 16, 104, 0.466);
+}
+
+p {
+  color: rgb(14, 0, 53);
+}
